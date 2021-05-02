@@ -24,7 +24,7 @@ Mastering Markdown
 Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform and its a way to style text on the web
 
 
-#You can use Markdown most places around GitHub: |
+# You can use Markdown most places around GitHub: |
 ------------------------------------------------ |
 Gists |
 Comments in Issues and Pull Requests|
