@@ -1,14 +1,14 @@
-#github
+# github
 
 
 ![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpp-qJG8DzZOM1fwiEL2GvFksCh1W7kvZ6-g&usqp=CAU)
 
 
 
-** What is it?** ![img](:monocle_face:)
+**What is it?** ![img](:monocle_face:)
 
 
- ##is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere
+ ## is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere
  so itis agreat place to shear and store folder like(java,html,...) online and it become arepositary. 
   
   
