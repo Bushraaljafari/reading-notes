@@ -2,7 +2,7 @@
 # growth mindset 
 **what that mean**
 *The concept of growth mindset believes that it is possible for an individual to develop his skills and abilities through hard work*
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbja7LmHeqcJi52FqoB8hYmtF5XBRrpv4A-g&usqp=CAU
+![IMAGE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbja7LmHeqcJi52FqoB8hYmtF5XBRrpv4A-g&usqp=CAU)
 ***how to keep myself in a growth mindset***
 1. View challenges as opportunities
 2. Acknowledge and embrace imperfections
