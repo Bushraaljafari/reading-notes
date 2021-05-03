@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 ## about me
 ***my name is bushra***
@@ -8,14 +8,17 @@
   
 
 ###  Table of Contents 
-        
-        name       |    link
-      ------------ |    ------------
-      lab1         |  [lab1](lab1.md)
-      READ1        |  [READ1](READ1.md)
-      README       |   [README](read.md)
 
-      gi
+| name | Link |
+|-----------|--------|
+| Growth mindset | [Link](lab1.md)|
+| read 1|[link](READ1.md)|
+|read |[link](read.md)|
+
+
+        
+   
+      
 
 
 
