@@ -11,9 +11,11 @@
         
         name       |    link
       ------------ |    ------------
-      lab1         |  [lab1](https://replit.com/@BUSHRA96/reading-notes#lab1.md)
-      READ1        |  [READ1](https://replit.com/@BUSHRA96/reading-notes#READ1.md)
-      README       |   [README](https://replit.com/@BUSHRA96/reading-notes#README.md)
+      lab1         |  [lab1](lab1.md)
+      READ1        |  [READ1](READ1.md)
+      README       |   [README](read.md)
+
+      gi
 
 
 
