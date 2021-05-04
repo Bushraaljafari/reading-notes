@@ -14,6 +14,9 @@
 | Growth mindset | [Link](lab1.md)|
 | read 1|[link](READ1.md)|
 |read |[link](read.md)|
+| read03a |[link](read03a.md)|
+|read:03b|[link](read:03b.md)|
+
 
 
         

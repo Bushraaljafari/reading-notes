@@ -3,13 +3,21 @@
 
 
 ## what the Version Control:  
+<<<<<<< HEAD
 **is a system that allows you to revisit various versions of a file or set of files by recording changes.**
+=======
+** is a system that allows you to revisit various versions of a file or set of files by recording changes. **
+>>>>>>> 61c33500ba27e034e14506a100479069436968e0
   - we had Centralized Version Control System (CVCS)
   because The need for collaboration within a developer team on a single file or set of files
   - If a CVS goes down, collaborators cannot work with each other on a file or save changes and new versions
       
 
+<<<<<<< HEAD
  **learning about git history and how i start work in to it **
+=======
+ ** learning about git history and how i start work in to it **
+>>>>>>> 61c33500ba27e034e14506a100479069436968e0
 
 
   and hear are some link that will help for download 
@@ -49,4 +57,7 @@
 
 
  
+<<<<<<< HEAD
  
+=======
+>>>>>>> 61c33500ba27e034e14506a100479069436968e0
