@@ -15,11 +15,7 @@
 | read 1|[link](READ1.md)|
 |read |[link](read.md)|
 | read03a |[link](read03a.md)|
-<<<<<<< HEAD
-|read03b|[link](https://replit.com/@BUSHRA96/reading-notes-2#Read:03b.md)|
-=======
-|read:03b|[link](https://replit.com/@BUSHRA96/reading-notes-2#Read:03b.md)|
->>>>>>> 2bd8284c6a61bb0d863f6e41949ce871e4fa4450
+|read03b| [link](read03b)
 
 
 
