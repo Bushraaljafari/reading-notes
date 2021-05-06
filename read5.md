@@ -43,6 +43,10 @@ let x = 0;
 while (n < 3) {
   n++;
   x += n;
+   
+   #### for more detial
+   [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+   
 
 
 
