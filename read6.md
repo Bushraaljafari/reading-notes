@@ -57,6 +57,7 @@ document.getElementById("demo").innerHTML = toCelsius;
 
 ### [for more detials](https://www.w3schools.com/js/js_functions.asp)
 
+<<<<<<< HEAD
  
 ## Defining functions
 ### Function declarations
@@ -88,6 +89,7 @@ var x = square(4) // x gets the value 16
 ### Calling functions
 *Defining a function does not execute it. Defining it names the function and specifies what to do when the function is called.*
 [more detials](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions).
+
 
 
 
