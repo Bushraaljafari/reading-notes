@@ -16,7 +16,7 @@
   
  | name | Link |
 |-----------|--------|
-| read21| [Link](read21.md)|
+| class-01| [Link](class-01.md)|
 | read22|[link](read22.md)|
 |read23 |[link](read23.md)|
 | read24 |[link](read24.md)|
