@@ -70,10 +70,10 @@ to a Domain Name System (DNS) server.
 
  - [x] <p> --- Opening Tag 
 
-</p> ---- Closing Tag
+    </p> ---- Closing Tag
 
 
-  ### HTML Chapter 8: “Extra Markup” (p.176-199)
+ ### HTML Chapter 8: “Extra Markup” (p.176-199)
 
   |markup| exmpel|
   |------|------------------|
@@ -84,66 +84,69 @@ to a Domain Name System (DNS) server.
   |Grouping Text &Elements In a Block|<div>|
   |Grouping Text &Elements Inline|<span>|
   |Information About Your Pages|<meta>|
-
-  ### HTML Chapter 17: “HTML5 Layout” (pp.428-451)
+  
+  
+  
+  
+ ### HTML Chapter 17: “HTML5 Layout” (pp.428-451)
 
   
 
-  1. *The <header> and <footer>
-elements can be used for:*
-- [x] The main header or footer
-that appears at the top or
-bottom of every page on the
-site.
-- [x] A header or footer for an
-individual <article> or
-<section> within the page
+  1. *The <header> and <footer> elements can be used for:*
+ 
+ - [x] The main header or footer that appears at the top or bottom of every page on the site.
+ 
+ 
 
-2. *The <nav> element is used to
-contain the major navigational
-blocks on the site such as the
-primary site navigation.*
+ - [x] A header or footer for an individual <article> or <section> within the page
+ 
+ 
 
-3. The <article> element acts as
-a container for any section of a
-page that could stand alone and
-potentially be syndicated.
+ 2. *The <nav> element is used to
+ contain the major navigational
+ blocks on the site such as the
+ primary site navigation.*
 
-4. The <aside> element has two
-purposes, depending on whether
-it is inside an <article>
-element or not.
+ 3. The <article> element acts as
+ a container for any section of a
+ page that could stand alone and
+ potentially be syndicated.
 
-** Summary
-HTML5 LAYOUT**
+ 4. The <aside> element has two
+ purposes, depending on whether
+ it is inside an <article>
+ element or not.
 
-- [x]  The new HTML5 elements indicate the purpose of
-different parts of a web page and help to describe
-its structure.
-- [X] The new elements provide clearer code (compared
-with using multiple <div> elements).
-- [x]  Older browsers that do not understand HTML5
-elements need to be told which elements are
-block-level elements.
-- [x]  To make HTML5 elements work in Internet Explorer 8
-(and older versions of IE), extra JavaScript is needed,
-which is available free from Google.
+ ** Summary
+ HTML5 LAYOUT**
+
+ - [x]  The new HTML5 elements indicate the purpose of
+ different parts of a web page and help to describe
+ its structure.
+ - [X] The new elements provide clearer code (compared
+ with using multiple <div> elements).
+ - [x]  Older browsers that do not understand HTML5
+ elements need to be told which elements are
+ block-level elements.
+ - [x]  To make HTML5 elements work in Internet Explorer 8
+ (and older versions of IE), extra JavaScript is needed,
+ which is available free from Google.
 
 
-### HTML Chapter 18: “Process & Design” (pp.452-475)
+ ### HTML Chapter 18: “Process & Design” (pp.452-475)
  ####  These questions are important to help you design 
-- Who is the Site For?
-It is therefore very important to
-understand who your target audience is.
+ - Who is the Site For?
+ It is therefore very important to
+ understand who your target audience is.
 
-- Why People Visit YOUR Website
-- What Your Visitors are Trying to Achieve
-- What Your Visitors are
-Trying to Achieve
-- What Information
-Your Visitors Need
-- How Often People Will
-Visit Your Site
+ - Why People Visit YOUR Website
+ - What Your Visitors are Trying to Achieve
+ - What Your Visitors are
+ Trying to Achieve
+ - What Information
+ Your Visitors Need
+ - How Often People Will
+ Visit Your Site
 
 *WireFrames*
 
