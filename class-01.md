@@ -40,7 +40,7 @@ world. In order for you to find the location of
 the web server, your browser will first connect
 to a Domain Name System (DNS) server.
 
-[LINK](1.png)
+
 
 #### HTML code
 
@@ -87,7 +87,7 @@ to a Domain Name System (DNS) server.
 
   ### HTML Chapter 17: “HTML5 Layout” (pp.428-451)
 
-  [link](2.png)
+  
 
   1. *The <header> and <footer>
 elements can be used for:*
