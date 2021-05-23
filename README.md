@@ -31,7 +31,7 @@
  | name | Link |
 |-----------|--------|
 | class-01| [Link](201/class-01.md)|
-| read22|[link](201/read22.md)|
+| class-02|[link](201/class-02.md)|
 |read23 |[link](201/read23.md)|
 | read24 |[link](201/read24.md)|
 |read25| [link](201/read25.md)|

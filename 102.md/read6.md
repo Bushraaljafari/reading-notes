@@ -57,7 +57,7 @@ document.getElementById("demo").innerHTML = toCelsius;
 
 ### [for more detials](https://www.w3schools.com/js/js_functions.asp)
 
-<<<<<<< HEAD
+
  
 ## Defining functions
 ### Function declarations
@@ -78,7 +78,7 @@ x = mycar.make; // x gets the value "Honda"
 
 myFunc(mycar);
 y = mycar.make; // y gets the value "Toyota"
-                // (the make property was changed by the function)
+ // (the make property was changed by the function)
 
 ###  Function expressions
 - example

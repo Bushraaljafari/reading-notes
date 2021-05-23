@@ -1,4 +1,4 @@
-# Read: 01 - Introductory HTML and JavaScript 
+# Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
 ## From the Duckett HTML book:
 ### Chapter 2: “Text” (pp.40-61)
 
