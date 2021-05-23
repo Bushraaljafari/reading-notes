@@ -23,7 +23,7 @@
 
 |tags|how its look like|exmpel|
 |----|-----------------|------|
-|Strong|<strong>|<p><strong>my name:</strong> bushra.</p>|
+|Strong|//<strong>|<p><strong>my name:</strong> bushra.</p>|
 |Emphasis|<em>|<p>I think <em>Ivy</em> was the first.</p>|
 |Quotations|<q>|<p>I think <q>Ivy.</q> was the first.</p>|
 |Author Details|<address>|<address><p><a href="">homer@example.org</a></p>address</p></address>|
