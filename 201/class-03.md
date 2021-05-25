@@ -302,6 +302,13 @@ i++; }}
 var el = document.getElementByid{'bl ackboard');
 el .innerHTML = msg;
 
+**here are the books for the read**
+
+[HTML AND CSS](https://alqudscollege-my.sharepoint.com/:b:/g/personal/advtech_ltuc_com/ETDKUSIt9BxKml92neQqsLoB7WTLFO70vcsmQ8I-HlRTEQ?e=FczW8Q)
+
+[JavaScrip](https://alqudscollege-my.sharepoint.com/:b:/g/personal/advtech_ltuc_com/Ecix8R_amQVPhRpnPyJaSmoBleNloBxgtjgnbXS7T9MgoA?e=PPfTVl).
+
+
 
 
 
