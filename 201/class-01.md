@@ -42,7 +42,7 @@ to a Domain Name System (DNS) server.
 
 
 
-#### HTML code
+### HTML code
 
 <html>
 <body>
@@ -79,11 +79,11 @@ to a Domain Name System (DNS) server.
   |------|------------------|
   | DOCTYPEs|<!DOCTYPE html>|
   |comment|<!-- comment goes here -->|
-  |Block Elements|<h1>, <p>, <ul>, and <li>.|
-  |inline elements|<a>, <b>, <em>, and <img>.|
-  |Grouping Text &Elements In a Block|<div>|
-  |Grouping Text &Elements Inline|<span>|
-  |Information About Your Pages|<meta>|
+  |Block Elements|\<h1>, \<p>, \<ul>, and \<li>.|
+  |inline elements|\<a>, \<b>, <em>, and \<img>.|
+  |Grouping Text &Elements In a Block|\<div>|
+  |Grouping Text &Elements Inline|\<span>|
+  |Information About Your Pages|\<meta>|
   
   
   
@@ -92,29 +92,29 @@ to a Domain Name System (DNS) server.
 
   
 
-  1. *The <header> and <footer> elements can be used for:*
+  1. *The \<header> and \<footer> elements can be used for:*
  
  - [x] The main header or footer that appears at the top or bottom of every page on the site.
  
  
 
- - [x] A header or footer for an individual <article> or <section> within the page
+ - [x] A header or footer for an individual \<article> or \<section> within the page
  
  
 
- 2. *The <nav> element is used to
+ 2. *The \<nav> element is used to
  contain the major navigational
  blocks on the site such as the
  primary site navigation.*
 
- 3. The <article> element acts as
+ 3. The \<article> element acts as
  a container for any section of a
  page that could stand alone and
  potentially be syndicated.
 
- 4. The <aside> element has two
+ 4. The \<aside> element has two
  purposes, depending on whether
- it is inside an <article>
+ it is inside an \<article>
  element or not.
 
  ** Summary
@@ -124,7 +124,7 @@ to a Domain Name System (DNS) server.
  different parts of a web page and help to describe
  its structure.
  - [X] The new elements provide clearer code (compared
- with using multiple <div> elements).
+ with using multiple \<div> elements).
  - [x]  Older browsers that do not understand HTML5
  elements need to be told which elements are
  block-level elements.
@@ -134,7 +134,7 @@ to a Domain Name System (DNS) server.
 
 
  ### HTML Chapter 18: “Process & Design” (pp.452-475)
- ####  These questions are important to help you design 
+ ###  These questions are important to help you design 
  - Who is the Site For?
  It is therefore very important to
  understand who your target audience is.
@@ -174,9 +174,9 @@ a series of tasks and then work out each step needed
 to complete that task (a flowchart can help)
 -  JavaScript files are text files (like HTML pages and
 CSS style sheets), but they have the . j s extension. 
-- The HTML <script> element is used in HTML pages
+- The HTML \<script> element is used \in HTML pages
 to tell the browser to load the JavaScript file (rather like
-the <link> element can be used to load a CSS file). 
+the \<link> element can be used to load a CSS file). 
 
 [for more detials](https://alqudscollege-my.sharepoint.com/:b:/g/personal/advtech_ltuc_com/Ecix8R_amQVPhRpnPyJaSmoBleNloBxgtjgnbXS7T9MgoA?e=PPfTVl)
 

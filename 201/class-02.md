@@ -1,3 +1,4 @@
+
 # Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
 ## From the Duckett HTML book:
 ### Chapter 2: “Text” (pp.40-61)
@@ -7,26 +8,26 @@
 - [x] Semantic markup
  
 
- #### Structural markup
+ ### Structural markup
  |tags|how its look like|exmpel|
  |----|-----------------|------|
- |Headings|<h1>|<h1>This is a Main Heading</h1>|
- |paragraphs|<p>|<p>this paragraphs....</p>|
- |Bold |<b>| <b>bold.</b>|
- |Italic|<i>|<i>Solanum teberosum</i>|
- |Superscript  |<sup>|<p>E=MC<sup>2</sup>.</p>|
- |Subscrip|<sub>|<p>2009<sub>1</sub>.</p>|
- |line-breaks|<br />|<p>The Earth<br />is big.</p>|
- |horizontal-rules|<hr />|<p>The Earth</p><hr /><p>is big.</p>|
+ |Headings|\<h1>|\<h1>This is a Main Heading\</h1>\|
+ |paragraphs|\<p>|\<p>this paragraphs....\</p>|
+ |Bold |\<b>| \<b>bold.\</b>|
+ |Italic|\<i>|\<i>Solanum teberosum\</i>|
+ |Superscript  |\<sup>|\<p>E=MC\<sup>2\</sup>.\</p>|
+ |Subscrip|\<sub>|\<p>2009\<sub>1\</sub>.\</p>|
+ |line-breaks|\<br />|\<p>The Earth<br />is big.\</p>|
+ |horizontal-rules|\<hr />|\<p>The Earth\</p>\<hr />\<p>is big.\</p>|
 
- #### Semantic Markup
+ ### Semantic Markup
 
 |tags|how its look like|exmpel|
 |----|-----------------|------|
-|Strong|//<strong>|<p><strong>my name:</strong> bushra.</p>|
-|Emphasis|<em>|<p>I think <em>Ivy</em> was the first.</p>|
-|Quotations|<q>|<p>I think <q>Ivy.</q> was the first.</p>|
-|Author Details|<address>|<address><p><a href="">homer@example.org</a></p>address</p></address>|
+|Strong|\<strong>|\<p>\<strong>my name:\</strong> bushra.\</p>|
+|Emphasis|\<em>|<p>I think \<em>Ivy\</em> was the first.\</p>|
+|Quotations|\<q>|\<p>I think \<q>Ivy.\</q> was the first.\</p>|
+|Author Details|\<address>|\<address>\<p>\<a href="">homer@example.org\</a>\</p>address\</p>\</address>|
 
 ### Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)
 * CSS is the language we use to style a Web page.
@@ -56,7 +57,7 @@
 - STRING DATA TYPE  / "true"
 - BOOLEAN DATA TYPE / true 
 
-#### ARRAYS 
+### ARRAYS 
 **what is arrays**
 its type of variable. It doesn't just store one value; it stores a list of values.
 - *Create the array*
@@ -101,6 +102,7 @@ round.
 
 
  
+
 
 
  
