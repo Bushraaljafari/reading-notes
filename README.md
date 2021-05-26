@@ -33,7 +33,7 @@
 | class-01| [Link](201/class-01.md)|
 | class-02|[link](201/class-02.md)|
 |class-03 |[link](201/class-03.md)|
-| read24 |[link](201/read24.md)|
+|class-04|[link](201/class-04.md)|
 |read25| [link](201/read25.md)|
 |read26|[link](201/read26.md)|
 |read27|[link](201/read27.md)|
