@@ -34,7 +34,7 @@
 | class-02|[link](201/class-02.md)|
 |class-03 |[link](201/class-03.md)|
 |class-04|[link](201/class-04.md)|
-|read25| [link](201/read25.md)|
+|class-05| [link](201/class-05.md)|
 |read26|[link](201/read26.md)|
 |read27|[link](201/read27.md)|
 |read28|[link](201/read28.md)|
