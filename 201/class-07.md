@@ -4,8 +4,8 @@
 - [Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
 - [From the Duckett HTML book:](https://alqudscollege-my.sharepoint.com/:b:/g/personal/advtech_ltuc_com/ETDKUSIt9BxKml92neQqsLoB7WTLFO70vcsmQ8I-HlRTEQ?e=FczW8Q)
 
-Chapter 6: “Tables” (pp.126-145)
-- [From the Duckett JS Book:](https://drive.google.com/file/d/1L74jU_Js5jSjbi2hg87TNyT-hnVkoXwJ/view)
+Chapter 6: “Tables” (pp.126-145)[From the Duckett JS Book:](https://drive.google.com/file/d/1L74jU_Js5jSjbi2hg87TNyT-hnVkoXwJ/view)
+- 
 
 Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
 
