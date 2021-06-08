@@ -22,6 +22,11 @@ Read the following articles and/or review the following examples on CSS animatio
 -  nothing showing that a mix of specific personality types or skills or backgrounds made any difference
 
 
+- If a company wants to outstrip its competitors, it needs to influence not only how people work but also how they work together.
+
+
+- As long as everyone got a chance to talk, the team did well. But if only one person or a small group spoke all the time, the collective intelligence declined.
+
 
  **2D Rotate**
 

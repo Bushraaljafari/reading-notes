@@ -43,7 +43,7 @@
 |class-11|[link](201/class-11.md)|
 |class-12|[link](201/class-12.md)|
 |class-13|[link](201/class-13.md)|
-|class-14|[link](201/class-14.md)|
+|class-14(a,b)|[link](201/class-14.md)|
 |read215|[link](201/read215.md)|
 
    
