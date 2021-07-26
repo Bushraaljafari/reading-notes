@@ -2,7 +2,7 @@
       
 | name | Link |
 |-----------|--------|
-| class 1| [Link]class-1.md)|
+| class 1| [Link](class-1.md)|
 | class 2|[link](class-2.md)|
 |class 3 |[link](class-3.md)|
 |class 4|[link](class-4.md)|
