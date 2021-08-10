@@ -1,6 +1,6 @@
 # Diversity & Inclusion in the Tech Industry
 
-**Consider the history: [That Time When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding)** 👩
+**Consider the history: [That Time When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding)** 👩.
 
 1. What occured during the same time as the beginning of the decline of women in computer sciene?
 When Personal Computers started increasing in US homes, the women sharing in computer science decreased
