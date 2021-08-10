@@ -9,7 +9,7 @@ males had been playing on computers growing up because there weren't personal co
 
 
 
-**Review the data: [Employee breakdown of key technology companies](https://informationisbeautiful.net/visualizations/diversity-in-tech/)**
+**Review the data: [Employee breakdown of key technology companies](https://informationisbeautiful.net/visualizations/diversity-in-tech/)** .
 
 1. What three take-a-ways do you have looking at this data?
 In LinkedIn number of asian is 39.
