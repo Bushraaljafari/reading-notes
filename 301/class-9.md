@@ -1,38 +1,25 @@
-# Reading 😏
+# Readings: FUNCTIONAL PROGRAMMING
+## Reading
+**[Functional Programming Concepts](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)**
 
-## [Understanding the JavaScript Call Stack](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4) 🔉
+What is functional programming?
 
-What is a ‘call’?
-a call stack is a data structure that uses the Last In, First Out (LIFO) principle to temporarily store and manage function invocation (call).
+Functional Programming is a style of building the structure and elements of computer programs, that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.
 
+What is a pure function and how do we know if something is a pure function?
 
-How many ‘calls’ can happen at once?
-just one call
+Pure functions is the first term to learn when trying to understand functional programming. Pure function, are functions that return the same result if given the same arguments (they are also referred as deterministic), and they do not cause any observable side effects.
 
+What are the benefits of a pure function?
 
-What does LIFO mean?
-it is stand for last in first out, that is mean the last calling function will be executed first one and will pop out of call frame.
+The code is easier to test.
+We don’t need to mock anything
+The code is consistent
 
-What causes a Stack Overflow
-call stack frame becomes full or reached its maximum limit of pushing function
+What is immutability?
 
-## [JavaScript error messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
+To say a code is immutable, to mean that it is unchanged or unable to change.
 
-What is a ‘refrence error’?
-This is as simple as when you try to use a variable that is not yet declared you get this type os errors.
+What is Referential transparency?
 
-What is a ‘syntax error’?
-this occurs when you have something that cannot be parsed in terms of syntax
-
-What is a ‘range error’?
-when you ask for a range and that range is not exist or available  either too large or too small.
-
-What is a ‘tyep error’?
-this types of errors show up when the types (number, string and so on) you are trying to use or access are incompatible
-
-What is a breakpoint?
-points stop running the code to see the results and continue running the code again.
-
-
-What does the word ‘debugger’ do in your code?
- it will force the code to report the errors for the user
+A function that consistently yields the same result for the same input, is referentially transparent.
